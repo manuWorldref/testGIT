@@ -1,0 +1,20 @@
+{
+  "associateid": "someAssociateId",
+  "representativename": "Representative Name",
+  "addressline1": "Address Line 1",
+  "addressline2": "Address Line 2",
+  "mailid": "company@example.com",
+  "companywebsite": "http://www.companywebsite.com",
+  "compprofilefileid": "someFileId",
+  "countrycode": "US",
+  "extcountry": "External Country",
+  "phoneno": "1234567890",
+  "department": "Some Department",
+  "designation": "Some Designation",
+  "city": "City Name",
+  "country": "Country Name",
+  "pincode": "12345",
+  "compname": "Company Name",
+  "compid": 1234567890
+}
+
